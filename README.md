@@ -27,4 +27,6 @@ Things I'm reading, or have read.... or should be reading.
 
 ## development
 
+* [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
+
 ## security
