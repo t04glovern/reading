@@ -15,8 +15,10 @@
 ###### python
 * [x] [The Zen of Python - Tim Peters](https://www.python.org/dev/peps/pep-0020/) **`Complete 2016-01`**
   * Just a bit of fun
-* [ ] [Requests - Python](http://docs.python-requests.org/en/latest/user/quickstart/#make-a-request).
+* [ ] [Requests - Python](http://docs.python-requests.org/en/latest/user/quickstart/#make-a-request)
   * Quickstart guide for requests in python
+* [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) **`Active`**
+  * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
 
 # sysadmin :computer:
 
@@ -24,7 +26,7 @@
 * [ ] [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
   * A helpful introduction to Docker
 
-###### linux 
+###### linux
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
   * Would love to actually do this when I have some free time
 * [ ] [XPEnology - x86 Implementation of Synologys DSM](http://xpenology.com/forum/)
