@@ -10,7 +10,7 @@
 
 ###### BASIC
 * [ ] [Compukit UK101 Simulator](http://uk101.sourceforge.net/docs/index.html) **`Active`**
-  * Relates to [this project](https://github.com/t04glovern/UK101) I'm working on that involes interpretting some old BASIC'ish' code from the late 70's
+  * Relates to [this project](https://github.com/t04glovern/UK101) I'm working on that involves interpreting some old BASIC'ish' code from the late 70's
 
 ###### python
 * [x] [The Zen of Python - Tim Peters](https://www.python.org/dev/peps/pep-0020/) **`Complete 2016-01`**
@@ -30,7 +30,7 @@
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
   * Would love to actually do this when I have some free time
 * [ ] [XPEnology - x86 Implementation of Synologys DSM](http://xpenology.com/forum/)
-  * Can run DSM on x86 architechure and even virtualize it in hyper-v
+  * Can run DSM on x86 architecture and even virtualize it in hyper-v
 * [x] [Surface Pro 3 Linux Dual Boot](https://github.com/matthewwardrop/linux-surfacepro3) **`Complete 2016-01`**
   * Trying to get Windows 10 + Manjaro Linux dual booting on my Surface Pro 3
   * [Kernel Patches - shvr](https://github.com/shvr/fedora-surface-pro-3-kernel)
