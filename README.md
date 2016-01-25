@@ -19,6 +19,8 @@
   * Quickstart guide for requests in python
 * [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) **`Active`**
   * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
+* [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+  * Virtualenv is a tool to create isolated Python environments.
 
 # sysadmin :computer:
 
