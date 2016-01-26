@@ -21,6 +21,8 @@
   * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
 * [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/)
   * Virtualenv is a tool to create isolated Python environments.
+* [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)
+  * Unoffical API written in python for Google Play Music. 
 
 # sysadmin :computer:
 
