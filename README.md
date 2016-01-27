@@ -24,7 +24,7 @@
 * [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Active`**
   * Unoffical API written in python for Google Play Music. 
 
-# electronics
+# electronics :electric_plug:
 
 ###### arduino
 * [ ] [Arduino/Genuino 101 CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser) **`Active`**
