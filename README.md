@@ -9,7 +9,7 @@
 # development :neckbeard:
 
 ###### BASIC
-* [ ] [Compukit UK101 Simulator](http://uk101.sourceforge.net/docs/index.html) **`Active`**
+* [ ] [Compukit UK101 Simulator](http://uk101.sourceforge.net/docs/index.html) **`Hold`**
   * Relates to [this project](https://github.com/t04glovern/UK101) I'm working on that involves interpreting some old BASIC'ish' code from the late 70's
 
 ###### python
@@ -21,8 +21,19 @@
   * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
 * [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/)
   * Virtualenv is a tool to create isolated Python environments.
-* [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)
+* [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Active`**
   * Unoffical API written in python for Google Play Music. 
+
+# electronics
+
+###### arduino
+* [ ] [Arduino/Genuino 101 CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser) **`Active`**
+  * demonstrates how to make use the Genuino 101's on-board 6-axis accelerometer/gyro to read the X, Y, and Z values of both the accelerometer and the gyroscope.
+
+###### circuit
+
+* [ ] [Saleae Socket API](http://support.saleae.com/hc/en-us/articles/201104764-Socket-API-beta)
+  * Look at the technical documentation and get my head around some of the automation options that the SDK and API suite offer
 
 # sysadmin :computer:
 
