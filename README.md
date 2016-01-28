@@ -5,6 +5,8 @@
 * [x] [The Caves of Steel - Isaac Asimov](https://www.goodreads.com/book/show/41811.The_Caves_of_Steel) **`Complete 2016-01`**
 
 ###### non-fiction
+* [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
+  * Recommended to me by [@oddsoul](https://github.com/oddsoul)
 
 # development :neckbeard:
 
@@ -22,7 +24,12 @@
 * [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/)
   * Virtualenv is a tool to create isolated Python environments.
 * [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Active`**
-  * Unoffical API written in python for Google Play Music. 
+  * Unoffical API written in python for Google Play Music.
+
+###### js 
+* [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Active`**
+  * Using JavaScript in minecraft
+  * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
 
 # electronics :electric_plug:
 
