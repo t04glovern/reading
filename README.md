@@ -21,13 +21,14 @@
   * Quickstart guide for requests in python
 * [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) **`Active`**
   * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
-* [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/)
+* [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/) **`Active`**
   * Virtualenv is a tool to create isolated Python environments.
+  * [virtualenv install on windows guide](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/).
 * [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Active`**
   * Unoffical API written in python for Google Play Music.
 
-###### js 
-* [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Active`**
+###### js
+* [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
   * Using JavaScript in minecraft
   * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
 
