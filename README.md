@@ -39,6 +39,7 @@
   * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
 * [ ] [Phaser Game Engine](http://phaser.io/) **`Active`**
   * HTML5 and Javascript game engine
+  * [Rayo](http://phasereditor.boniatillo.com/blog/rayo) as a possible Phaser IDE
 
 # electronics :electric_plug:
 
