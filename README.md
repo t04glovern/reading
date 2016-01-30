@@ -8,6 +8,12 @@
 * [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
 
+# design
+
+###### sprites
+* [ ] [Tiled Map Editor](http://www.mapeditor.org/) **`Active`**
+  * A open source package for building tiled maps. Importing these into Phaser is my plan
+
 # development :neckbeard:
 
 ###### BASIC
@@ -31,6 +37,8 @@
 * [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
   * Using JavaScript in minecraft
   * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
+* [ ] [Phaser Game Engine](http://phaser.io/) **`Active`**
+  * HTML5 and Javascript game engine
 
 # electronics :electric_plug:
 
