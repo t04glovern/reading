@@ -11,7 +11,7 @@
 # design
 
 ###### sprites
-* [ ] [Tiled Map Editor](http://www.mapeditor.org/) **`Active`**
+* [ ] [Tiled Map Editor](http://www.mapeditor.org/) **`Complete 2016-01-30`**
   * A open source package for building tiled maps. Importing these into Phaser is my plan
 
 # development :neckbeard:
@@ -37,14 +37,14 @@
 * [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
   * Using JavaScript in minecraft
   * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
-* [ ] [Phaser Game Engine](http://phaser.io/) **`Active`**
+* [ ] [Phaser Game Engine](http://phaser.io/) **`Complete 2016-01-30`**
   * HTML5 and Javascript game engine
   * [Rayo](http://phasereditor.boniatillo.com/blog/rayo) as a possible Phaser IDE
 
 # electronics :electric_plug:
 
 ###### arduino
-* [ ] [Arduino/Genuino 101 CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser) **`Active`**
+* [ ] [Arduino/Genuino 101 CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser) **`Hold`**
   * demonstrates how to make use the Genuino 101's on-board 6-axis accelerometer/gyro to read the X, Y, and Z values of both the accelerometer and the gyroscope.
 
 ###### circuit
