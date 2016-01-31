@@ -8,11 +8,15 @@
 * [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
 
-# design
+# design :art:
 
 ###### sprites
 * [ ] [Tiled Map Editor](http://www.mapeditor.org/) **`Complete 2016-01-30`**
   * A open source package for building tiled maps. Importing these into Phaser is my plan
+* [ ] [Pixel Art Tutorial - cure](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
+  * A good guide to read before starting pixel art
+* [ ] [GrafX2](http://pulkomandy.tk/projects/GrafX2)
+  * Heard it's a decent editor
 
 # development :neckbeard:
 
