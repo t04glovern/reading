@@ -11,7 +11,7 @@
 # design :art:
 
 ###### sprites
-* [ ] [Tiled Map Editor](http://www.mapeditor.org/) **`Complete 2016-01-30`**
+* [x] [Tiled Map Editor](http://www.mapeditor.org/) **`Complete 2016-01-30`**
   * A open source package for building tiled maps. Importing these into Phaser is my plan
 * [ ] [Pixel Art Tutorial - cure](http://pixeljoint.com/forum/forum_posts.asp?TID=11299)
   * A good guide to read before starting pixel art
@@ -41,7 +41,7 @@
 * [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
   * Using JavaScript in minecraft
   * [CanaryMod](http://scriptcraftjs.org/download/latest/) as the base Server, comes with its own APIs
-* [ ] [Phaser Game Engine](http://phaser.io/) **`Complete 2016-01-30`**
+* [x] [Phaser Game Engine](http://phaser.io/) **`Complete 2016-01-30`**
   * HTML5 and Javascript game engine
   * [Rayo](http://phasereditor.boniatillo.com/blog/rayo) as a possible Phaser IDE
 
@@ -75,5 +75,5 @@
   * [/r/SurfaceLinux Subreddit](https://www.reddit.com/r/SurfaceLinux/)
   * [Surface Pro 3 - Arch Linux Wiki](https://wiki.archlinux.org/index.php/Microsoft_Surface_Pro_3#Compile_Kernel_with_Patches)
   * [Ubuntu + Windows + Grub Example](http://askubuntu.com/questions/265644/dual-boot-surface-pro-with-ubuntu)
-* [ ] [Lennart Poettering - Open Source](https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd) **`Complete 2016-01-31`**
+* [x] [Lennart Poettering - Open Source](https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd) **`Complete 2016-01-31`**
   * Decent read
