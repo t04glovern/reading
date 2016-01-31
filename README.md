@@ -58,6 +58,7 @@
 
 # games
 
+###### puzzle
 * [ ] [The Witness](http://steamcommunity.com/app/210970/)
 
 # sysadmin :computer:
