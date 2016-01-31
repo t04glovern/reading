@@ -75,3 +75,5 @@
   * [/r/SurfaceLinux Subreddit](https://www.reddit.com/r/SurfaceLinux/)
   * [Surface Pro 3 - Arch Linux Wiki](https://wiki.archlinux.org/index.php/Microsoft_Surface_Pro_3#Compile_Kernel_with_Patches)
   * [Ubuntu + Windows + Grub Example](http://askubuntu.com/questions/265644/dual-boot-surface-pro-with-ubuntu)
+* [ ] [Lennart Poettering - Open Source](https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd) **`Complete 2016-01-31`**
+  * Decent read
