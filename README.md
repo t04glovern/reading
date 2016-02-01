@@ -7,6 +7,8 @@
 ###### non-fiction
 * [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
+* [ ] [Installing Linux on a Dead Badger](http://www.amazon.com/Installing-Linux-Dead-Badger-Snyder/dp/1894953479)
+  * I have no idea
 
 # design :art:
 
