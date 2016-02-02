@@ -1,14 +1,14 @@
 # books :book:
 
 ###### fiction
-* [ ] [The Gods Themselves - Isaac Asimov](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) **`Active`**
+* [x] [The Gods Themselves - Isaac Asimov](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) **`Complete 2016-02-02`**
 * [x] [The Caves of Steel - Isaac Asimov](https://www.goodreads.com/book/show/41811.The_Caves_of_Steel) **`Complete 2016-01`**
+* [ ] [Installing Linux on a Dead Badger](http://www.amazon.com/Installing-Linux-Dead-Badger-Snyder/dp/1894953479) **`Active`**
+  * I have no idea how to explain this one
 
 ###### non-fiction
 * [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
-* [ ] [Installing Linux on a Dead Badger](http://www.amazon.com/Installing-Linux-Dead-Badger-Snyder/dp/1894953479)
-  * I have no idea
 
 # design :art:
 
@@ -36,7 +36,7 @@
 * [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/) **`Active`**
   * Virtualenv is a tool to create isolated Python environments.
   * [virtualenv install on windows guide](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/).
-* [ ] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Active`**
+* [x] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Complete 2016-01-29`**
   * Unoffical API written in python for Google Play Music.
 
 ###### js
