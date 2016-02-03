@@ -69,6 +69,10 @@
 * [ ] [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
   * A helpful introduction to Docker
 
+###### esxi
+
+* [ ] [Deploying Dell OpenManage on ESXi and vCenter 6](http://www.mylesgray.com/hardware/deploying-dell-openmanage-on-esxi-and-vcenter-6/)
+
 ###### linux
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
   * Would love to actually do this when I have some free time
