@@ -33,9 +33,10 @@
   * Quickstart guide for requests in python
 * [ ] [Python Koans](https://github.com/gregmalcolm/python_koans) **`Active`**
   * Python Koans - Learn Python through TDD. Based off [Ruby Koans](http://rubykoans.com/)
-* [ ] [Virtualenv](https://virtualenv.pypa.io/en/latest/) **`Active`**
+* [x] [Virtualenv](https://virtualenv.pypa.io/en/latest/) **`Complete 2016-02-03`**
   * Virtualenv is a tool to create isolated Python environments.
   * [virtualenv install on windows guide](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/).
+  * [A guide I did up on my blog](http://t04glovern.github.io/2016/02/python-virtualenv-quickstart)
 * [x] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Complete 2016-01-29`**
   * Unoffical API written in python for Google Play Music.
 
