@@ -62,7 +62,8 @@
 # games
 
 ###### puzzle
-* [ ] [The Witness](http://steamcommunity.com/app/210970/)
+* [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Active`**
+  * Inspired by Myst, The Witness has the player explore an open world island filled with a number of natural and man-made structures.
 
 # sysadmin :computer:
 
