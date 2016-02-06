@@ -47,6 +47,8 @@
 * [x] [Phaser Game Engine](http://phaser.io/) **`Complete 2016-01-30`**
   * HTML5 and Javascript game engine
   * [Rayo](http://phasereditor.boniatillo.com/blog/rayo) as a possible Phaser IDE
+* [ ] [Drag and Drop - Dragula](https://github.com/bevacqua/dragula)
+  * Very cool drag and drop implementation
 
 # electronics :electric_plug:
 
