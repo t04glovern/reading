@@ -20,6 +20,15 @@
 * [ ] [GrafX2](http://pulkomandy.tk/projects/GrafX2)
   * Heard it's a decent editor
 
+###### animation
+* [ ] [Pickle](http://www.pickleeditor.com/index.php)
+  * A pixel art creator and animator
+
+###### audio
+* [ ] [bfxr Audio generator](https://github.com/increpare/bfxr)
+  * A dead simple audio generator
+  
+
 # development :neckbeard:
 
 ###### BASIC
