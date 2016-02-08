@@ -25,7 +25,7 @@
   * A pixel art creator and animator
 
 ###### audio
-* [ ] [bfxr Audio generator](https://github.com/increpare/bfxr)
+* [x] [bfxr Audio generator](https://github.com/increpare/bfxr) **`Complete 2016-02-06`**
   * A dead simple audio generator
   
 
@@ -90,7 +90,7 @@
 
 ###### esxi
 * [ ] [Deploying Dell OpenManage on ESXi and vCenter 6](http://www.mylesgray.com/hardware/deploying-dell-openmanage-on-esxi-and-vcenter-6/)
-* [ ] [Backup / Restore ESXI Configuration](http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2042141)
+* [x] [Backup / Restore ESXI Configuration](http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2042141) **`Complete 2016-02-08`**
 
 ###### linux-x86
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
@@ -109,7 +109,7 @@
   * Decent read
 
 ###### linux-arm
-* [ ] [Manjaro ARM](https://manjaro.github.io/Manjaro-ARM-launched/)
+* [x] [Manjaro ARM](https://manjaro.github.io/Manjaro-ARM-launched/) **`Complete 2016-02-08`**
   * Manjaro ARM Released!
   * [Manjaro ARM - Install guide](http://wiki.manjaro-arm.org/index.php?title=Full_New_Users_Installation_guide)
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
