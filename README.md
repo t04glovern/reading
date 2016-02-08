@@ -48,6 +48,8 @@
   * [A guide I did up on my blog](http://t04glovern.github.io/2016/02/python-virtualenv-quickstart)
 * [x] [Google Play Music API (Unoffical)](https://unofficial-google-music-api.readthedocs.org/en/latest/)  **`Complete 2016-01-29`**
   * Unoffical API written in python for Google Play Music.
+* [ ] [maybe - Are you sure?](https://github.com/p-e-w/maybe)
+  * Gives you a rundown on changes before you commit them
 
 ###### js
 * [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
