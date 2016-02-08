@@ -92,7 +92,7 @@
 
 * [ ] [Deploying Dell OpenManage on ESXi and vCenter 6](http://www.mylesgray.com/hardware/deploying-dell-openmanage-on-esxi-and-vcenter-6/)
 
-###### linux x86
+###### linux-x86
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
   * Would love to actually do this when I have some free time
 * [ ] [XPEnology - x86 Implementation of Synologys DSM](http://xpenology.com/forum/)
@@ -108,6 +108,6 @@
 * [x] [Lennart Poettering - Open Source](https://plus.google.com/+LennartPoetteringTheOneAndOnly/posts/J2TZrTvu7vd) **`Complete 2016-01-31`**
   * Decent read
 
-###### linux ARM
+###### linux-arm
 * [ ] [Manjaro ARM](https://manjaro.github.io/Manjaro-ARM-launched/)
   * Manjaro ARM Released!
