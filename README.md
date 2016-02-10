@@ -97,7 +97,7 @@
   * Would love to actually do this when I have some free time
 * [ ] [XPEnology - x86 Implementation of Synologys DSM](http://xpenology.com/forum/)
   * Can run DSM on x86 architecture and even virtualize it in hyper-v
-* [x] [Surface Pro 3 Linux Dual Boot](https://github.com/matthewwardrop/linux-surfacepro3) **`Complete 2016-01`**
+* [x] [Surface Pro 3 Linux Dual Boot](https://github.com/matthewwardrop/linux-surfacepro3) **`Complete 2016-01-06`**
   * Trying to get Windows 10 + Manjaro Linux dual booting on my Surface Pro 3
   * [Kernel Patches - shvr](https://github.com/shvr/fedora-surface-pro-3-kernel)
   * [Slim Kernel Patches - matthewwardrop](https://github.com/matthewwardrop/linux-surfacepro3)
