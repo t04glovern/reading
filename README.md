@@ -28,12 +28,14 @@
 * [x] [bfxr Audio generator](https://github.com/increpare/bfxr) **`Complete 2016-02-06`**
   * A dead simple audio generator
   
-
 # development :neckbeard:
 
 ###### BASIC
 * [ ] [Compukit UK101 Simulator](http://uk101.sourceforge.net/docs/index.html) **`Hold`**
   * Relates to [this project](https://github.com/t04glovern/UK101) I'm working on that involves interpreting some old BASIC'ish' code from the late 70's
+
+###### c
+* [ ] [Handmade Quake](https://www.youtube.com/playlist?list=PLBKDuv-qJpTbCsXHsxcoSSsMarnfyNhHF)
 
 ###### python
 * [x] [The Zen of Python - Tim Peters](https://www.python.org/dev/peps/pep-0020/) **`Complete 2016-01`**
@@ -75,7 +77,7 @@
 # games :video_game:
 
 ###### puzzle
-* [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Active`**
+* [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Hold`**
   * Inspired by Myst, The Witness has the player explore an open world island filled with a number of natural and man-made structures.
 
 # sysadmin :computer:
@@ -115,5 +117,5 @@
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
 
 ###### office365
-* [ ] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
+* [x] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
   * List of Product IDs
