@@ -113,3 +113,7 @@
   * Manjaro ARM Released!
   * [Manjaro ARM - Install guide](http://wiki.manjaro-arm.org/index.php?title=Full_New_Users_Installation_guide)
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
+
+###### office365
+* [ ] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
+  * List of Product IDs
