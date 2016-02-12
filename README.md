@@ -99,6 +99,8 @@
 ###### esxi
 * [ ] [Deploying Dell OpenManage on ESXi and vCenter 6](http://www.mylesgray.com/hardware/deploying-dell-openmanage-on-esxi-and-vcenter-6/)
 * [x] [Backup / Restore ESXI Configuration](http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2042141) **`Complete 2016-02-08`**
+* [ ] [Ultimate Deployment Tool](http://www.ultimatedeployment.org)
+  * Ultimate Deployment Tool for pushing out new OS's in minutes
 
 ###### linux-x86
 * [ ] [Linux From Scratch](http://www.linuxfromscratch.org/)
