@@ -80,7 +80,7 @@
 * [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Hold`**
   * Inspired by Myst, The Witness has the player explore an open world island filled with a number of natural and man-made structures.
 
-# sysadmin :computer:
+# sysadmin-apps :computer:
 
 ###### ansible
 * [ ] [Ansible - Getting started](http://docs.ansible.com/ansible/)
@@ -89,6 +89,12 @@
 ###### docker
 * [ ] [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
   * A helpful introduction to Docker
+
+###### office365
+* [x] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
+  * List of Product IDs  
+
+# sysadmin-os :computer:
 
 ###### esxi
 * [ ] [Deploying Dell OpenManage on ESXi and vCenter 6](http://www.mylesgray.com/hardware/deploying-dell-openmanage-on-esxi-and-vcenter-6/)
@@ -115,7 +121,3 @@
   * Manjaro ARM Released!
   * [Manjaro ARM - Install guide](http://wiki.manjaro-arm.org/index.php?title=Full_New_Users_Installation_guide)
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
-
-###### office365
-* [x] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
-  * List of Product IDs
