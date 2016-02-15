@@ -86,6 +86,10 @@
 * [ ] [Ansible - Getting started](http://docs.ansible.com/ansible/)
   * Ansible is an IT automation tool. It can configure systems, deploy software, and orchestrate more advanced IT tasks such as continuous deployments or zero downtime rolling updates.
 
+###### boxstarter
+* [ ] [Boxstarter](https://github.com/mwrock/boxstarter)
+  * Leverage Chocolatey to easily setup systems
+
 ###### docker
 * [ ] [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
   * A helpful introduction to Docker
