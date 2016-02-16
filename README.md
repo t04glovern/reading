@@ -80,6 +80,9 @@
 * [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Hold`**
   * Inspired by Myst, The Witness has the player explore an open world island filled with a number of natural and man-made structures.
 
+* [x] [Firewatch](http://store.steampowered.com/app/383870/) **`Complete 2016-02-16`**
+  * Just beautiful. Short game (for the price) but well worth it for the interesting characters and beautiful scenery
+
 # sysadmin-apps :computer:
 
 ###### ansible
