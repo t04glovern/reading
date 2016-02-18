@@ -131,3 +131,7 @@
   * Manjaro ARM Released!
   * [Manjaro ARM - Install guide](http://wiki.manjaro-arm.org/index.php?title=Full_New_Users_Installation_guide)
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
+
+# misc
+* [ ] [Paperless](https://github.com/danielquinn/paperless)
+  * An OCR / PDF tool to help you go paperless
