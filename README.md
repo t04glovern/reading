@@ -53,6 +53,8 @@
   * Unoffical API written in python for Google Play Music.
 * [ ] [maybe - Are you sure?](https://github.com/p-e-w/maybe)
   * Gives you a rundown on changes before you commit them
+* [ ] [Disable .pyc bytecode files](http://docs.python-guide.org/en/latest/writing/gotchas/#bytecode-pyc-files-everywhere).
+  * Instructions to disable the creation of .pyc bytecode files
 
 ###### js
 * [ ] [ScriptCraft](https://github.com/walterhiggins/ScriptCraft) **`Hold`**
