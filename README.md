@@ -7,9 +7,9 @@
   * I have no idea how to explain this one
 
 ###### non-fiction
-* [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W) **`Active`**
+* [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
-* [ ] [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.audible.com/pd/Bios-Memoirs/Elon-Musk-Audiobook/B00UX8ODPM)
+* [ ] [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.audible.com/pd/Bios-Memoirs/Elon-Musk-Audiobook/B00UX8ODPM) **`Active`**
 
 # design :art:
 
