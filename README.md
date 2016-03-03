@@ -105,7 +105,7 @@
   * List of Product IDs  
 
 ###### veeam
-* [] [Veeam PowerShell cmdlet](http://blog.mwpreston.net/2016/03/01/using-powershell-to-mass-configure-the-new-veeam-v9-features/)
+* [ ] [Veeam PowerShell cmdlet](http://blog.mwpreston.net/2016/03/01/using-powershell-to-mass-configure-the-new-veeam-v9-features/)
   * Looks cool..
 
 # sysadmin-os :computer:
