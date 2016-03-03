@@ -28,7 +28,7 @@
 ###### audio
 * [x] [bfxr Audio generator](https://github.com/increpare/bfxr) **`Complete 2016-02-06`**
   * A dead simple audio generator
-  
+
 # development :neckbeard:
 
 ###### BASIC
@@ -104,6 +104,10 @@
 * [x] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
   * List of Product IDs  
 
+###### veeam
+* [] [Veeam PowerShell cmdlet](http://blog.mwpreston.net/2016/03/01/using-powershell-to-mass-configure-the-new-veeam-v9-features/)
+  * Looks cool..
+
 # sysadmin-os :computer:
 
 ###### esxi
@@ -136,6 +140,6 @@
 
 # misc
 
-###### ocr 
+###### ocr
 * [ ] [Paperless](https://github.com/danielquinn/paperless)
   * An OCR / PDF tool to help you go paperless
