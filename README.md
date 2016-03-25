@@ -9,7 +9,8 @@
 ###### non-fiction
 * [ ] [The Knowledge: How to Rebuild Our World from Scratch](http://www.audible.com/pd/Science-Technology/The-Knowledge-Audiobook/B00J55GD0W)
   * Recommended to me by [@oddsoul](https://github.com/oddsoul)
-* [ ] [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.audible.com/pd/Bios-Memoirs/Elon-Musk-Audiobook/B00UX8ODPM) **`Active`**
+* [x] [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](http://www.audible.com/pd/Bios-Memoirs/Elon-Musk-Audiobook/B00UX8ODPM) **`Complete 2016-02`**
+  * This book was fantastic, I would high recommend it as a source of inspiration to achieve great things
 
 # design :art:
 
@@ -53,7 +54,7 @@
   * Unoffical API written in python for Google Play Music.
 * [ ] [maybe - Are you sure?](https://github.com/p-e-w/maybe)
   * Gives you a rundown on changes before you commit them
-* [ ] [Disable .pyc bytecode files](http://docs.python-guide.org/en/latest/writing/gotchas/#bytecode-pyc-files-everywhere).
+* [x] [Disable .pyc bytecode files](http://docs.python-guide.org/en/latest/writing/gotchas/#bytecode-pyc-files-everywhere).
   * Instructions to disable the creation of .pyc bytecode files
 
 ###### js
@@ -71,6 +72,8 @@
 ###### arduino
 * [ ] [Arduino/Genuino 101 CurieIMU Orientation Visualiser](https://www.arduino.cc/en/Tutorial/Genuino101CurieIMUOrientationVisualiser) **`Hold`**
   * demonstrates how to make use the Genuino 101's on-board 6-axis accelerometer/gyro to read the X, Y, and Z values of both the accelerometer and the gyroscope.
+* [ ] [Untold History of Arduino](http://arduinohistory.github.io/)
+  * A really interesting insight into the history of Arduino
 
 ###### circuit
 
@@ -82,7 +85,6 @@
 ###### puzzle
 * [ ] [The Witness](http://steamcommunity.com/app/210970/) **`Hold`**
   * Inspired by Myst, The Witness has the player explore an open world island filled with a number of natural and man-made structures.
-
 * [x] [Firewatch](http://store.steampowered.com/app/383870/) **`Complete 2016-02-16`**
   * Just beautiful. Short game (for the price) but well worth it for the interesting characters and beautiful scenery
 
@@ -99,10 +101,24 @@
 ###### docker
 * [ ] [A tale of two Dockers - Docker Quickstart](http://sthbrx.github.io/blog/2015/10/12/a-tale-of-two-dockers/)
   * A helpful introduction to Docker
+* [ ] [Docker Swarm - Setup instructions](http://blog.hypriot.com/post/how-to-setup-rpi-docker-swarm/)
+  * setup a Docker Swarm with HypriotOS and the standard docker-machine binary
+
+###### group-policy
+* [ ] [Advanced Group Policy Management](https://technet.microsoft.com/en-us/windows/hh826067.aspx)
+  * Staging group policy changes
+
+###### kerberos
+* [ ] [Kerberos in a nutshell](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
+  * Good introduction and explaination of kerberos
 
 ###### office365
 * [x] [Product IDs supported by the Office Deployment Tool](https://support.microsoft.com/en-us/kb/2842297) **`Complete 2016-02-11`**
   * List of Product IDs  
+
+###### system-centre
+* [x] [SCCM Hydration kit](http://deploymentresearch.com/Research/Post/407/The-Hydration-Kit-for-System-Center-2012-R2-is-available-for-download)
+  * SCCM Hydration kit setup process
 
 ###### veeam
 * [ ] [Veeam PowerShell cmdlet](http://blog.mwpreston.net/2016/03/01/using-powershell-to-mass-configure-the-new-veeam-v9-features/)
@@ -143,3 +159,8 @@
 ###### ocr
 * [ ] [Paperless](https://github.com/danielquinn/paperless)
   * An OCR / PDF tool to help you go paperless
+
+###### riddles
+* [ ] [Einsteins Riddle](https://udel.edu/~os/riddle.html)
+  * Fun to think about
+
