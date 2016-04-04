@@ -125,7 +125,7 @@
   * Looks cool..
 
 ###### windows-update
-* [ ] [Windows Update Update](bit.ly/wupup)
+* [ ] [Windows Update Update](https://support.microsoft.com/en-us/kb/949104)
 
 # sysadmin-os :computer:
 
