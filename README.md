@@ -124,6 +124,9 @@
 * [ ] [Veeam PowerShell cmdlet](http://blog.mwpreston.net/2016/03/01/using-powershell-to-mass-configure-the-new-veeam-v9-features/)
   * Looks cool..
 
+###### windows-update
+* [ ] [Windows Update Update](bit.ly/wupup)
+
 # sysadmin-os :computer:
 
 ###### esxi
