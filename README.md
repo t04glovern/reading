@@ -157,6 +157,10 @@
   * [Manjaro ARM - Install guide](http://wiki.manjaro-arm.org/index.php?title=Full_New_Users_Installation_guide)
   * [XFCE Install guide - Raspberry Pi](http://blog.adityapatawari.com/2013/05/arch-linux-on-raspberry-pi-running-xfce.html)
 
+###### windows
+* [ ] [Build 1511 Not Asking for Win10 Version](http://www.askvg.com/fix-cant-select-windows-10-pro-edition-during-clean-installation/)
+  * Fix for builds of Windows 10 after 1511 not asking what version you want to install
+
 # misc
 
 ###### hp-spp
